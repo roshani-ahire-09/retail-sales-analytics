@@ -224,9 +224,9 @@ Dec 2018 actual     : ₹4,68,719/month
 
 **Roshani Dadaji Ahire**  
 Data Analyst — Python · SQL · Tableau  
-📧 roshani@email.com  
+📧 roshaniahire1110@email.com  
 🔗 [LinkedIn](https://linkedin.com/in/roshaniahire)  
-🐙 [GitHub](https://github.com/roshani-ahire-09)
+
 
 ---
 
